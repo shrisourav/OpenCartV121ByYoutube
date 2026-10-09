@@ -281,3 +281,118 @@
 2026-10-08 21:15:10 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
 2026-10-08 21:15:10 INFO  TC001_AccountRegistrationTest:47 - Test passed
 2026-10-08 21:15:10 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sourav\AppData\Local\Temp\testng-eclipse-1851269832\testng-customsuite.xml
+
+2026-10-09 15:46:13 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2026-10-09 15:46:13 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@5778826f: 40 ms
+2026-10-09 15:46:13 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@659eef7: 59 ms
+2026-10-09 15:46:13 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@6d0b5baf: 17 ms
+2026-10-09 15:46:13 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@6d366c9b: 12 ms
+2026-10-09 15:46:13 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@76ba13c: 7 ms
+2026-10-09 15:46:13 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@410ae9a3: 8 ms
+2026-10-09 15:46:13 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@319988b0: 1 ms
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sourav\AppData\Local\Temp\testng-eclipse--138081196\testng-customsuite.xml
+
+2026-10-09 15:48:14 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2026-10-09 15:48:14 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@5778826f: 35 ms
+2026-10-09 15:48:14 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@659eef7: 64 ms
+2026-10-09 15:48:14 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@6d0b5baf: 16 ms
+2026-10-09 15:48:14 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@6d366c9b: 19 ms
+2026-10-09 15:48:14 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@76ba13c: 8 ms
+2026-10-09 15:48:14 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@319988b0: 8 ms
+2026-10-09 15:48:14 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@d5ae57e: 0 ms
+2026-10-09 15:48:28 INFO  Utils:112 - [TestNG] Running:
+  C:\workspace\CodeFromSelfGithub\OpenCartV121ByYoutube\master.xml
+
+2026-10-09 15:48:33 INFO  TC005_ProductPriceVerification:17 - ***** Starting TC005_ProductPriceVerification Test  ****
+2026-10-09 15:48:33 INFO  TC005_ProductPriceVerification:25 - Clicked on MP3 Page Button.. 
+2026-10-09 15:48:43 ERROR TC005_ProductPriceVerification:37 - Test failed: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='product-layout product-grid col-lg-4 col-md-4 col-sm-6 col-xs-12']/descendant::a[text()='iPod Shuffle']"}
+  (Session info: chrome=154.0.8037.98)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9a26c61dab3e3989d0bf405a37d099b4, findElement {value=//div[@class='product-layout product-grid col-lg-4 col-md-4 col-sm-6 col-xs-12']/descendant::a[text()='iPod Shuffle'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 154.0.8037.98, chrome: {chromedriverVersion: 154.0.8037.92 (334b65d254cc..., userDataDir: C:\Users\Sourav\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59650}, goog:processID: 18000, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59650/devtoo..., se:cdpVersion: 154.0.8037.98, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9a26c61dab3e3989d0bf405a37d099b4
+2026-10-09 15:48:43 INFO  TC005_ProductPriceVerification:42 - ***** Finished TC001_AccountRegistrationTest *****
+2026-10-09 15:53:56 INFO  Utils:112 - [TestNG] Running:
+  C:\workspace\CodeFromSelfGithub\OpenCartV121ByYoutube\master.xml
+
+2026-10-09 15:53:59 INFO  TC005_ProductPriceVerification:17 - ***** Starting TC005_ProductPriceVerification Test  ****
+2026-10-09 15:53:59 INFO  TC005_ProductPriceVerification:25 - Clicked on MP3 Page Button.. 
+2026-10-09 15:54:19 ERROR TC005_ProductPriceVerification:37 - Test failed: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='product-layout product-grid col-lg-4 col-md-4 col-sm-6 col-xs-12']/descendant::a[text()='iPod Shuffle']' (tried for 10 second(s) with 500 milliseconds interval)
+2026-10-09 15:54:19 INFO  TC005_ProductPriceVerification:42 - ***** Finished TC001_AccountRegistrationTest *****
+2026-10-09 15:55:48 INFO  Utils:112 - [TestNG] Running:
+  C:\workspace\CodeFromSelfGithub\OpenCartV121ByYoutube\master.xml
+
+2026-10-09 15:55:50 INFO  TC005_ProductPriceVerification:17 - ***** Starting TC005_ProductPriceVerification Test  ****
+2026-10-09 15:56:25 INFO  TC005_ProductPriceVerification:25 - Clicked on MP3 Page Button.. 
+2026-10-09 15:58:25 INFO  Utils:112 - [TestNG] Running:
+  C:\workspace\CodeFromSelfGithub\OpenCartV121ByYoutube\master.xml
+
+2026-10-09 15:58:28 INFO  TC005_ProductPriceVerification:17 - ***** Starting TC005_ProductPriceVerification Test  ****
+2026-10-09 15:58:28 INFO  TC005_ProductPriceVerification:25 - Clicked on MP3 Page Button.. 
+2026-10-09 15:58:29 INFO  TC005_ProductPriceVerification:42 - ***** Finished TC001_AccountRegistrationTest *****
