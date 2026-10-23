@@ -8,13 +8,13 @@
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC005_ProductPriceVerification">
+      <class name="testCases.TC006_CameraFeatures">
         <methods>
           <include name="tearDown"/>
+          <include name="VerifyCameraPriceAndName"/>
           <include name="setup"/>
-          <include name="VerifyProductPrice"/>
         </methods>
-      </class> <!-- testCases.TC005_ProductPriceVerification -->
+      </class> <!-- testCases.TC006_CameraFeatures -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Master Suite] -->

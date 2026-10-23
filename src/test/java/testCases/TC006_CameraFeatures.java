@@ -27,6 +27,8 @@ public class TC006_CameraFeatures extends BaseClass
   			Assert.assertEquals(pName,"Canon EOS 5D");
   			Assert.assertEquals(pPrice,"$98.00");
   			
+  			cp.ClickListView();
+  			
   		}
   		catch (Exception e)
 		{

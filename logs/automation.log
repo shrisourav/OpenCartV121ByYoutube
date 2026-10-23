@@ -41,3 +41,13 @@
 2026-10-23 15:09:11 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4c168660: 0 ms
 2026-10-23 15:09:51 INFO  TC006_CameraFeatures:15 - ***** Starting TC005_ProductPriceVerification Test  ****
 2026-10-23 15:09:52 INFO  TC006_CameraFeatures:38 - ***** Finished TC001_AccountRegistrationTest *****
+2026-10-23 17:50:21 INFO  Utils:112 - [TestNG] Running:
+  C:\workspace\CodeFromSelfGithub\OpenCartV121ByYoutube\master.xml
+
+2026-10-23 17:50:24 INFO  TC006_CameraFeatures:15 - ***** Starting TC005_ProductPriceVerification Test  ****
+2026-10-23 17:50:25 INFO  TC006_CameraFeatures:40 - ***** Finished TC001_AccountRegistrationTest *****
+2026-10-23 17:51:58 INFO  Utils:112 - [TestNG] Running:
+  C:\workspace\CodeFromSelfGithub\OpenCartV121ByYoutube\master.xml
+
+2026-10-23 17:52:01 INFO  TC006_CameraFeatures:15 - ***** Starting TC005_ProductPriceVerification Test  ****
+2026-10-23 17:52:02 INFO  TC006_CameraFeatures:40 - ***** Finished TC001_AccountRegistrationTest *****
