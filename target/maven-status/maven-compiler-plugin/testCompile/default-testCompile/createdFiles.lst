@@ -1,7 +1,9 @@
+testCases\TC005_ProductPriceVerification.class
 pageObjects\HomePage.class
 pageObjects\MyAccountPage.class
 utilities\ExcelUtility.class
 testBase\BaseClass.class
+pageObjects\ProductPage.class
 pageObjects\AccountRegistrationPage.class
 testCases\TC002_LoginTest.class
 testCases\TC001_AccountRegistrationTest.class
@@ -10,4 +12,5 @@ pageObjects\BasePage.class
 testCases\TC003_LoginDDT.class
 utilities\ExtentReportManager.class
 utilities\DataProviders.class
+pageObjects\MP3_Page.class
 testCases\TC_004_Search.class
