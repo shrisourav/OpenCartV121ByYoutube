@@ -33,6 +33,10 @@ WebElement MP3Link;
 @FindBy(xpath="//a[text()='Show AllMP3 Players']")
 WebElement showAllBtn;
 
+//Adding code for camera path
+@FindBy(xpath ="//a[text()='Cameras']")
+WebElement camerabtn;
+
 public void clickMyAccount()
 {
 	lnkMyaccount.click();
@@ -58,6 +62,11 @@ public void AllShowkMP3()
 	WebDriverWait wait = new WebDriverWait(driver,Duration.ofSeconds(10));
 	wait.until(ExpectedConditions.elementToBeClickable(showAllBtn));
 	showAllBtn.click();
+}
+
+public void ClickCamera()
+{
+	camerabtn.click();
 }
 
 }
