@@ -1,6 +1,43 @@
-2026-10-15 10:10:25 INFO  TC005_ProductPriceVerification:17 - ***** Starting TC005_ProductPriceVerification Test  ****
-2026-10-15 10:10:26 INFO  TC005_ProductPriceVerification:25 - Clicked on MP3 Page Button.. 
-2026-10-15 10:10:26 INFO  TC005_ProductPriceVerification:42 - ***** Finished TC001_AccountRegistrationTest *****
-2026-10-15 10:15:38 INFO  TC005_ProductPriceVerification:17 - ***** Starting TC005_ProductPriceVerification Test  ****
-2026-10-15 10:15:38 INFO  TC005_ProductPriceVerification:25 - Clicked on MP3 Page Button.. 
-2026-10-15 10:15:39 INFO  TC005_ProductPriceVerification:42 - ***** Finished TC001_AccountRegistrationTest *****
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Sourav\AppData\Local\Temp\testng-eclipse-1873703102\testng-customsuite.xml
+
+2026-10-23 15:09:11 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2026-10-23 15:09:11 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@74cadd41: 34 ms
+2026-10-23 15:09:11 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@7a48e6e2: 61 ms
+2026-10-23 15:09:11 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@68d6972f: 12 ms
+2026-10-23 15:09:11 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@410ae9a3: 10 ms
+2026-10-23 15:09:11 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7fcbe147: 8 ms
+2026-10-23 15:09:11 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3c0fae6c: 7 ms
+2026-10-23 15:09:11 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4c168660: 0 ms
+2026-10-23 15:09:51 INFO  TC006_CameraFeatures:15 - ***** Starting TC005_ProductPriceVerification Test  ****
+2026-10-23 15:09:52 INFO  TC006_CameraFeatures:38 - ***** Finished TC001_AccountRegistrationTest *****
